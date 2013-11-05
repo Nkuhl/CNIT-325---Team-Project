@@ -1,0 +1,81 @@
+
+Instructions for ComradesGUI (Java GUI).
+
+Proto Type.
+
+First Value : attend IvanHoe, and too Monte Carlo. Directed at analysis (human)
+
+Now includes Inventive Comrades Intercommunicatory (ICI) in first.
+
+ToDo:
+
+Logging, onto disk
+Command Line Options on start to Communicator
+Thrive : MultiPV redundant transpose ?
+To better: attend StringBuffer over String (+)
+
+Conditions:
+
+Do not name two communicators the identical.
+
+Do not change Path to new version with alternate UCI option list, make new Communicator.
+
+Do not delete Communicator when Instance is here.
+
+Attend JSpinner change before On/Off push in Monte Carlo. (order)
+
+Applies:
+
+Attend from RegisterNew (button), then Load.
+
+Turn on/off with red/green light. Right click for Monte Carlo if so.
+
+SetUp mode from Menu, push Yellow to exit, so too "C" to clear. See rules for SetUp for RobboExplorative (java). Edit castles and en passant by hand in FEN box, not SetUp mode.
+
+DoubleClick "C" for SetUp to newgame, Random for Chess960 (box).
+
+The attire is not failsafe in current. Do not pretend stupid.
+
+A "pv" excedeing 256 tokens will crash.
+
+Tricks:
+
+Hold CTRL-ALT when selecting from Defaults to direct delete.
+
+Double click west of a8 to reverse board.
+
+Underpromote concerning: click pawn on 7th by right button, then 3 buttons RBN.
+
+In SetUp, double-click C (upper left) twice to NewGame, even Chess960.
+
+MoveTree:
+
+Click to expand. Double-Click to jump. Arrows to move (up/down/left/right). MoveTree at infancy now.
+
+Keys (Up/Down/Left/Right/Space) from Newbuy to traverse.
+
+Mores:
+
+Report bugs (all) at IPPOLIT wiki.
+
+Confer wise ideas in there too, but refrain heavy tidings.
+
+Note: Logging refrains at 16 Mb, desisting 4mb from top.
+
+1. Buttons
+
+OPTIONS - Set Options for ComradesGUI, Fonts and Colors
+RegisterNew - Register new Communicator via File Chooser
+Load - Load new Communicator via Registry List
+Defaults - Change defaults for Communicator
+SetBoard - enter set Board mode
+Switch - PGN Selector, too: Load PGN file (all), Shift-Click to New
+Emit - Emit PGN from all (window), attending Tree
+       Yet: Shift-Click, only MainLine (Newbuy)
+
+Also: Switch PGN via tabs (in tree).
+CTRL-Tab, game back
+Shift-Tab, game forward
+
+Novel: Language, input from FEN confers KQRBNP, PGN from PIECE_STRING
+Yet: deformed for the now
