@@ -1,0 +1,35 @@
+id Stockfish 4 64
+Path C:\Users\Nathan\Documents\Fall 2013\CNIT - 325\New folder\ComradesGUITest\stockfish-4-win\Windows\stockfish_4_x64.exe
+RunTimeOptions NULL
+Write Debug Log check false
+Write Search Log check false
+Search Log Filename string SearchLog.txt
+Book File string book.bin
+Best Book Move check false
+Contempt Factor spin 0
+Mobility (Midgame) spin 100
+Mobility (Endgame) spin 100
+Pawn Structure (Midgame) spin 100
+Pawn Structure (Endgame) spin 100
+Passed Pawns (Midgame) spin 100
+Passed Pawns (Endgame) spin 100
+Space spin 100
+Aggressiveness spin 100
+Cowardice spin 100
+Min Split Depth spin 0
+Max Threads per Split Point spin 5
+Threads spin 1
+Idle Threads Sleep check false
+Hash spin 32
+Clear Hash button false
+Ponder check true
+OwnBook check false
+MultiPV spin 1
+Skill Level spin 20
+Emergency Move Horizon spin 40
+Emergency Base Time spin 200
+Emergency Move Time spin 70
+Minimum Thinking Time spin 20
+Slow Mover spin 100
+UCI_Chess960 check false
+UCI_AnalyseMode check false
